@@ -2,3 +2,7 @@
 - 👀 I’m interested in Python and Artificial intelligence.
 - 🤩 I’m currently learning Python.
 - 📫 How to reach me lidiqpopdimitrova@gmail.com
+
+![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiapopdimitrova&show_icons=true&theme=dracula)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiapopdimitrova)](https://github.com/lidiapopdimitrova/github-readme-stats)
