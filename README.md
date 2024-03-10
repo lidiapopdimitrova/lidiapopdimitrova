@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lidia
--    Python, Data Science, AI
 -    I’m currently following the Data Science Bachelor Program at TU Eindhoven
+-    Python, Data Science, AI
 - 📫 How to reach me: lidiqpopdimitrova@gmail.com
 - LinkedIn: Lidia Popdimitrova
