@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Lidia
 -    I’m currently in my second year of the Data Science Bachelor Program at TU Eindhoven
 -    Python, Data Science, AI
+-    Philips Intern
 - 📫 How to reach me: lidiqpopdimitrova@gmail.com
 - LinkedIn: Lidia Popdimitrova
