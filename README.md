@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lidia
--    I’m currently in my second year of the Data Science Bachelor Program at TU Eindhoven
+-    I’m currently in my last year of the Data Science Bachelor Program at TU Eindhoven
 -    Python, Data Science, AI
 -    Philips Intern
   
