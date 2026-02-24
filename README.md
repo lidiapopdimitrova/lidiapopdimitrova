@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lidia
 -    I’m currently in my last year of the Data Science Bachelor's Program at TU Eindhoven
 -    Python, Data Science, AI
--    Philips Intern
   
 Project Highlights:
     * London Police Crime Prediction ML model: https://github.com/DLee1222/CBL-Group-17
